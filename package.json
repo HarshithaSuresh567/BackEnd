@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "setting-up-a-simple-express-server",
+=======
+  "name": "crud-using-express",
+>>>>>>> 3567e8e (Student Management System using Node.js and Express)
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +14,13 @@
   "author": "",
   "license": "ISC",
   "type": "module",
+<<<<<<< HEAD
     "express": "^5.2.1"
   }
 
+=======
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
+>>>>>>> 3567e8e (Student Management System using Node.js and Express)
